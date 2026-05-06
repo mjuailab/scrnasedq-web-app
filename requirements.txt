@@ -1,0 +1,11 @@
+streamlit
+scanpy
+matplotlib
+langchain
+langchain-openai
+langgraph
+numpy<2
+pandas
+scipy
+seaborn
+plotly
